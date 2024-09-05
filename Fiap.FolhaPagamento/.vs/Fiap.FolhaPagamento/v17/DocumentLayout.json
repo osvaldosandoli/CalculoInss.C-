@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\source\\repos\\Fiap.FolhaPagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E4E401-229E-4206-8726-8E096E2CAB1C}|Fiap.FolhaPagamento\\Fiap.FolhaPagamento.csproj|c:\\users\\labsfiap\\source\\repos\\fiap.folhapagamento\\fiap.folhapagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E4E401-229E-4206-8726-8E096E2CAB1C}|Fiap.FolhaPagamento\\Fiap.FolhaPagamento.csproj|solutionrelative:fiap.folhapagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3967AA49-4C40-4E9E-A626-446FC0752325}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|c:\\users\\labsfiap\\source\\repos\\fiap.folhapagamento\\fiap.folhapagamento.teste\\inssteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3967AA49-4C40-4E9E-A626-446FC0752325}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|solutionrelative:fiap.folhapagamento.teste\\inssteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3967AA49-4C40-4E9E-A626-446FC0752325}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|c:\\users\\labsfiap\\source\\repos\\fiap.folhapagamento\\fiap.folhapagamento.teste\\inssfaixateste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3967AA49-4C40-4E9E-A626-446FC0752325}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|solutionrelative:fiap.folhapagamento.teste\\inssfaixateste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INSSFaixaTeste.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\INSSFaixaTeste.cs",
+              "RelativeDocumentMoniker": "Fiap.FolhaPagamento.Teste\\INSSFaixaTeste.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\INSSFaixaTeste.cs",
+              "RelativeToolTip": "Fiap.FolhaPagamento.Teste\\INSSFaixaTeste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:54:52.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InssTeste.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\InssTeste.cs",
+              "RelativeDocumentMoniker": "Fiap.FolhaPagamento.Teste\\InssTeste.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\InssTeste.cs",
+              "RelativeToolTip": "Fiap.FolhaPagamento.Teste\\InssTeste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:38:44.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento\\Program.cs",
+              "RelativeDocumentMoniker": "Fiap.FolhaPagamento\\Program.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento\\Program.cs",
+              "RelativeToolTip": "Fiap.FolhaPagamento\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowC4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:50:39.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

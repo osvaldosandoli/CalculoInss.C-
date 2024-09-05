@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.FolhaPagamento", "Fiap.FolhaPagamento\Fiap.FolhaPagamento.csproj", "{42E4E401-229E-4206-8726-8E096E2CAB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.FolhaPagamento.Teste", "Fiap.FolhaPagamento.Teste\Fiap.FolhaPagamento.Teste.csproj", "{3967AA49-4C40-4E9E-A626-446FC0752325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E4E401-229E-4206-8726-8E096E2CAB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E4E401-229E-4206-8726-8E096E2CAB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E4E401-229E-4206-8726-8E096E2CAB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E4E401-229E-4206-8726-8E096E2CAB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3967AA49-4C40-4E9E-A626-446FC0752325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3967AA49-4C40-4E9E-A626-446FC0752325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3967AA49-4C40-4E9E-A626-446FC0752325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3967AA49-4C40-4E9E-A626-446FC0752325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325EA451-D51D-4758-A344-ED839FF16B0E}
+	EndGlobalSection
+EndGlobal
